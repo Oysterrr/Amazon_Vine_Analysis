@@ -15,3 +15,4 @@ View the result:
 * The 5-stars percentage of Vine reviews was 38.2% and 54.5% for non-Vine reviews.
 
 ## Summary
+There does not appear to be a bias towards positive reviews with paid Vines in this dataset, at least not with respect to the highest ratings. In fact, over 50% of the non-Vine reviews were 5 stars, while 38% of Vine reviews were. It would be important to examine the entire distribution of ratings as well though. 4-stars and 3-stars reviews would also be quite helpful.
